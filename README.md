@@ -8,6 +8,8 @@ https://artisans-corner.com/
 
 https://github.com/orgs/SpellholdStudios/repositories
 
+https://downloads.weaselmods.net/
+
 
 
 
