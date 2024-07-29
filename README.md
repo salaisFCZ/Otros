@@ -13,3 +13,5 @@ https://downloads.weaselmods.net/
 https://github.com/Black-Wyrm-Lair
 
 https://github.com/Renegade0
+
+https://github.com/Skitia
