@@ -2,7 +2,7 @@ https://github.com/orgs/InfinityMods/repositories
 
 https://github.com/orgs/Gibberlings3/repositories
 
-https://github.com/Pocket-Plane-Group
+https://github.com/orgs/Pocket-Plane-Group/repositories
 
 https://artisans-corner.com/
 
