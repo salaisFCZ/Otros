@@ -10,7 +10,7 @@ https://github.com/orgs/SpellholdStudios/repositories
 
 https://downloads.weaselmods.net/
 
-https://github.com/Black-Wyrm-Lair
+https://github.com/orgs/Black-Wyrm-Lair/repositories
 
 https://github.com/Renegade0
 
