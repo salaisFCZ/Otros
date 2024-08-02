@@ -1,4 +1,6 @@
-Links where to see mods updates
+Links donde suben la mayoria de los mods
+
+Links to where most of the mods are uploaded
 
 ---------------------------------------------------------------------------------------------------------------
 
