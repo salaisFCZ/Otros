@@ -11,7 +11,7 @@ https://github.com/orgs/Gibberlings3/repositories
 
 https://github.com/orgs/Pocket-Plane-Group/repositories
 
-https://github.com/The-Gate-Project
+https://github.com/orgs/The-Gate-Project/repositories
 
 https://artisans-corner.com/
 
