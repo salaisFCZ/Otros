@@ -19,6 +19,8 @@ https://artisans-corner.com/
 
 https://github.com/orgs/SpellholdStudios/repositories
 
+https://github.com/Spellhold-Studios
+
 https://downloads.weaselmods.net/
 
 https://github.com/orgs/Black-Wyrm-Lair/repositories
