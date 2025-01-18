@@ -29,3 +29,6 @@ https://github.com/orgs/Black-Wyrm-Lair/repositories
 
 https://github.com/Renegade0
 
+https://github.com/evancauteren?tab=repositories
+
+https://github.com/RamosPabloA?tab=repositories
