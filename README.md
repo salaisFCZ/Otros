@@ -21,9 +21,10 @@ https://alaundosarchive.wordpress.com/
 
 https://artisans-corner.com/
 
-https://github.com/orgs/SpellholdStudios/repositories
+https://github.com/SpellholdStudios (NUEVO GITHUB ACTUALIZADO)
 
-https://github.com/Spellhold-Studios
+
+https://github.com/Spellhold-Studios (VIEJO GITHUB )
 
 https://downloads.weaselmods.net/
 
