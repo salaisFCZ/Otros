@@ -34,4 +34,15 @@ https://github.com/Renegade0
 
 https://github.com/evancauteren?tab=repositories
 
+traductores español 
+
+------------------------------------------------------------------------------------------------
+
+https://github.com/HaI20l
+
+https://github.com/ElGamerViejuno
+
+https://github.com/OmegaZeroXIII
+
+
 https://github.com/RamosPabloA?tab=repositories
